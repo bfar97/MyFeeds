@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'titletxt';
+	src: url('fonts/PoiretOne-Regular.ttf');
+}
+
+#headertxt {
+	text-align: center;
+	font-family: 'titletxt';
+	width:100%;
+}
+
+
