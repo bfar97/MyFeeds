@@ -1,0 +1,10 @@
+{
+	"name"         : "myfeeds",
+	"version"      : "0.0.0",
+	"description"  : "Application to show all your feed from you favorite social networks.",
+	"main"         : "server.js",
+	"author"       : "Bernardo",
+	"dependencies" : {
+		"express"    : "~4.7.2"
+	}
+}
